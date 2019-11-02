@@ -1,1 +1,3 @@
-# haskellHome
+#   haskellHome
+
+### My Journey to Haskell
